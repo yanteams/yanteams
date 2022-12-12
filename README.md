@@ -14,7 +14,6 @@
 
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/YAN?1337Badge=off&42Network=off&UM6P=off" alt="YAN's 42 stats" /></a>
 
 ## &#x1f4c8; GitHub Stats
 <a href="https://github.com/yanteams/">
