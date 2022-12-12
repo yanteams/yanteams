@@ -16,3 +16,10 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
+## &#x1f4c8; GitHub Stats
+<a href="https://github.com/yanteams/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=yanteams&line_height=27&layout=compact&theme=chartreuse-dark" />
+</a>
+<a href="https://github.com/yanteams/">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=yanteams&show_icons=true&line_height=20&include_all_commits=true&theme=chartreuse-dark" />
+</a>
