@@ -28,5 +28,4 @@
 <h2 align="center"><u>My Github Stats</u></h2>
 
 
-<img src="https://github-profile-trophy.vercel.app/?username=yanteams&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR">
-</p>
+<center><img src="https://github-profile-trophy.vercel.app/?username=yanteams&theme=onedark&title=MultiLanguage,Stars,Commit,Followers,Repo,PR"></center>
