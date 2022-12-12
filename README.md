@@ -1,7 +1,7 @@
 ### Hi , I'm YAN <img src="https://thumbs.gfycat.com/CrazyThisFrillneckedlizard-max-1mb.gif" width="20">
 > [![](https://visitcount.itsvg.in/api?id=yancoder&label=Profile%20Views&icon=7&pretty=true)](https://visitcount.itsvg.in)
 
-
+<!--
 <p style="display: inline-block;" align="center">
   <kbd>
     <kbd>Front-end</kbd>
@@ -64,7 +64,7 @@
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
   </kbd>
 </p>
-
+-->
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
