@@ -75,6 +75,13 @@
 <a href="https://t.me/yanofficialx" alt="Facebook"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width="50"/> </a>
 </p>
 
+## My Github Stats 📊
+<a href="https://github.com/yanteams/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yanteams&theme=redical" /></a>
+<br/>
+<div align="center" width="100%">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yanteams&show_icons=true&theme=radical" alt="nc-minh" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanteams&langs_count=10&theme=tokyonight&layout=compact" alt="nc-minh" />
+</div>
 
 <!--<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
