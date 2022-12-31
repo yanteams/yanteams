@@ -68,15 +68,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">-->
 
-<img src="https://camo.githubusercontent.com/5256f260dc380bcb09bf91ba68ddcbd1e7356068e60eecfbad78133ad67a7ff5/68747470733a2f2f737465616d75736572696d616765732d612e616b616d616968642e6e65742f7567632f3933393436353037323037393333373639392f413434413244323442423938373236374632364335363434304635314130423436383438313232322f" align="left" alt="nanosuckysuckyonetimeonetime.php.png" width="250" height="250">
 
-```py
-----------------
-Nguyễn Tuấn Khoa
-----------------
-```
-<hr>
-<br>
 ### <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="25px" height="20px"> Contact With Me!
 
 
@@ -84,7 +76,7 @@ Nguyễn Tuấn Khoa
 <a href="https://t.me/yanofficialx" alt="Facebook"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width="50"/> </a>
 </p>
 
-## My Github Stats 📊
+## My Github Stats 
 <div align="center" width="100%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanteams&langs_count=10&theme=tokyonight&layout=compact"  />
 </div>
