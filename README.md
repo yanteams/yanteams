@@ -81,7 +81,7 @@
 <a href="https://t.me/yanofficialx" alt="Telegram"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/800px-Telegram_2019_Logo.svg.png" width="50"/> </a>
 <a href="https://www.facebook.com/YanxDin/" alt="Facebook"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" width="50"/> </a>
 </p>
-## My Github Stats 
+<h3 align="left"> My Github Stats </h3>
 <div align="center" width="100%">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yanteams&langs_count=10&theme=tokyonight&layout=compact"  />
 </div>
